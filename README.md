@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to The NeedleMaid
+
+Hailing from the foothills of the Himalayas in Darjeeling, India, we are the creators of fine fabric merchandise.
+We believe in sustainability and going zero-waste on our products with eco-friendly deliveries and a sense of giving back to the community.
+
+This is an attempt to open-source our site as we build along our permanent address on the web.
+
 
 <!--
 **theneedlemaid/theneedlemaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
